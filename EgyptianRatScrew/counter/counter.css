@@ -1,0 +1,9 @@
+.counter-btn {
+    width: 20px;
+    text-align: center;
+    border: 1px solid black;
+    cursor: pointer;
+    &:hover {
+      background: red;
+    }
+  }
